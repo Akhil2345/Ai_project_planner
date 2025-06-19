@@ -23,7 +23,6 @@ A fully local, LangChain + Mistral-based **Multi-Agent AI system** that automate
 2. 🤖 Agent 1 breaks it into tasks  
 3. 🔢 Agent 2 assigns priority & hours  
 4. 📄 Agent 3 generates a report  
-5. 💌 Agent 4 syncs it to Notion / Telegram
 
 ---
 
